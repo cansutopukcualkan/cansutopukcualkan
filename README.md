@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cansutopukcualkan
+- 👋 Hi, I’m @cansutopukcu
 - 👀 I’m a SOC engineer at Cloudflare
 - 📫 via cansu[at]cloudflare[dot]com
 
